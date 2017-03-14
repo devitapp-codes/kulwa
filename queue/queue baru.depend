@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487740329 source:d:\tito\queue baru\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
